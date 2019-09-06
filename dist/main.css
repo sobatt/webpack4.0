@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+}
+
+h1{
+    font-size:12px;
+    display: flex;
+    transform: translateX(50%);
+}
